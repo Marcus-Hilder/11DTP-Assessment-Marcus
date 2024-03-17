@@ -1,0 +1,33 @@
+
+#logo{
+    width: 3%;
+    height: 3%;
+    float: left;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .navbar {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .navbar a {
+    float: left;
+    margin-top: 0.4%;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  
+  
+  
+  .navbar a:hover, .dropdown:hover .dropbtn {
+    background-color: rgb(59, 59, 59);
+  }
+  
+  
