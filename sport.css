@@ -48,6 +48,10 @@
     max-width: max-content;
     margin: auto;
   }
+  .title{
+    max-width: max-content;
+    margin: auto
+  }
   
   /* Center website */
   .main {
