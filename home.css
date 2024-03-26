@@ -40,8 +40,9 @@
   
   body {
     background-color: #f1f1f1;
-    padding: 20px;
+    padding: 0px;
     font-family: Arial;
+    margin: 0;
   }
   .home{
     max-width: max-content;
@@ -53,6 +54,7 @@
   }
   #grid {
     font: small-caps;
+    margin: 0;
   }
   
   /* Center website */
