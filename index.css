@@ -1,6 +1,6 @@
 #logo{
-    width: 3%;
-    height: 3%;
+    width: 56.16px;
+    height: 56.16;
     float: left;
 }
 
@@ -8,7 +8,7 @@
   .navbar {
     overflow: hidden;
     background-color: rgb(75, 75, 75);
-    
+    height: ;
     
     
   }
@@ -43,6 +43,7 @@
     padding: 0px;
     font-family: Arial;
     margin: 0;
+    
   }
   .home{
     max-width: max-content;
@@ -81,7 +82,7 @@
   /* Create four equal columns that floats next to each other */
   .column {
     float: left;
-    width: 33.333333%;
+    width: 33.3333333333333333333333333333333333%;
   }
   
   /* Clear floats after rows */ 
